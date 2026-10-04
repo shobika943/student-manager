@@ -1,0 +1,6 @@
+data/students.json
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
